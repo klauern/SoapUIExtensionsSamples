@@ -45,7 +45,7 @@
         <dependency>
             <groupId>com.smartbear.soapui</groupId>
             <artifactId>soapui</artifactId>
-            <version>5.0.0</version>
+            <version>5.5.0-AT</version>
         </dependency>
     </dependencies>
 </project>
